@@ -10,19 +10,19 @@ The system detects strong feature points in a video stream and tracks their moti
 
 ## System Architecture
 
-Webcam Input
-     ↓
-Frame Preprocessing (Grayscale Conversion)
-     ↓
-Feature Detection (Initial Frame)
-     ↓
-Optical Flow Tracking (Frame-to-Frame)
-     ↓
-Filtering Valid Points
-     ↓
-Visualization (Tracks + Points)
-     ↓
-Reinitialization (if needed)
+-Webcam Input
+-     ↓
+-Frame Preprocessing (Grayscale Conversion)
+-     ↓
+-Feature Detection (Initial Frame)
+-     ↓
+-Optical Flow Tracking (Frame-to-Frame)
+-     ↓
+-Filtering Valid Points
+-     ↓
+-Visualization (Tracks + Points)
+-     ↓
+-Reinitialization (if needed)
 
 
 
