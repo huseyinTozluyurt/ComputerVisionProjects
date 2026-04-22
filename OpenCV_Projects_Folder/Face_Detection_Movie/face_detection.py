@@ -1,4 +1,3 @@
-
 import cv2
 
 video_path = "DATA/youtube_video_dataset/movie.mp4"
