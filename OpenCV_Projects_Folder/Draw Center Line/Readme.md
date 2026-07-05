@@ -4,7 +4,6 @@ This project contains two simple OpenCV programs for practicing image loading, r
 
 
 <img width="1200" height="593" alt="Screenshot from 2026-07-05 04-21-47" src="https://github.com/user-attachments/assets/72e070cf-3b4f-4686-872f-8ea3153aa865" />
-<img width="1200" height="593" alt="image" src="https://github.com/user-attachments/assets/cfac3e1f-5ec1-430a-ae7d-772ccc002749" />
 
 
 ## Files
@@ -70,6 +69,8 @@ The program:
 3. Finds the center x and y coordinates
 4. Draws a center guide box or center line
 5. Displays the result
+
+<img width="1200" height="593" alt="image" src="https://github.com/user-attachments/assets/cfac3e1f-5ec1-430a-ae7d-772ccc002749" />
 
 ## Example Concept
 
