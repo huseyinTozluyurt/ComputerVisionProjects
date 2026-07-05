@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("DATA/chair.jpeg")
+img = cv2.imread("DATA/elevator.jpg")
 
 img = cv2.resize(img,(1024,800))
 
@@ -30,7 +30,8 @@ print("Center_y //: " + str(center_y_))
 
 
 # Draw a box at the center of the image with a margin parameter
-center_margin = 250
+center_margin = 200
+# center_padding = 40/100
 cv2.line(img, (center_x_ - center_margin, int(height * (1/4))), (center_x_ - center_margin, int(height * (3/4))), (0, 0, 255), 3)
 
 cv2.line(img, (center_x_ - center_margin, int(height * (1/4))), (center_x_ + center_margin, int(height * (1/4))), (0,0,255), 3)
