@@ -1,6 +1,7 @@
 # OpenCV Center Line and Center Box Drawing
 
 This project contains two simple OpenCV programs for practicing image loading, resizing, center coordinate calculation, and drawing guide lines or boxes on an image.
+
 <img width="1815" height="893" alt="image" src="https://github.com/user-attachments/assets/84580b36-e028-4739-b458-b435f9880380" />
 
 ## Files
